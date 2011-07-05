@@ -1,6 +1,6 @@
 
 all:
-	./rebar compile eunit
+	./rebar compile
 
 clean:
 	./rebar clean
