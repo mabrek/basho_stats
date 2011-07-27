@@ -1,5 +1,4 @@
-
-all:
+compile:
 	./rebar compile
 
 clean:
